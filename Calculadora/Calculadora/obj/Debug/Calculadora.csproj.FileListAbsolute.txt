@@ -1,0 +1,9 @@
+C:\Users\Cleidiana\Documents\csharp\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Cleidiana\Documents\csharp\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Cleidiana\Documents\csharp\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Cleidiana\Documents\csharp\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\Cleidiana\Documents\csharp\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\Cleidiana\Documents\csharp\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Cleidiana\Documents\csharp\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Cleidiana\Documents\csharp\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Cleidiana\Documents\csharp\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
