@@ -1,2 +1,2 @@
 # Calculadora-Simples
-Calculadora simples para iniciantes em C#
+Calculadora simples para iniciantes em C#(Form)
